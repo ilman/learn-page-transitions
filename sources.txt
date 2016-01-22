@@ -1,0 +1,6 @@
+https://github.com/blivesta/animsition
+https://codyhouse.co/gem/animated-page-transition/
+https://codyhouse.co/gem/animated-page-transition-2/
+http://ninodezign.com/20-jquery-plugin-for-page-transition-effects-with-css3/
+https://css-tricks.com/add-page-transitions-css-smoothstate-js/
+http://designdrizzle.com/15-amazing-page-transitions-effects-tutorials-in-jquery-and-css3/
